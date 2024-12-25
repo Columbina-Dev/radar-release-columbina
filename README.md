@@ -19,6 +19,15 @@
 > [!IMPORTANT]
 > [视频](https://www.bilibili.com/video/BV18PCKY2EsF)中的呈现效果仅基于部分已测试手机，部分品牌手机的实际表现可能不同。
 
+#### 推荐
+
+使用手机访问
+- [Github Release](https://github.com/Columbina-Dev/radar-release-columbina/releases/download/APK-1.0/privacy_radar_v1.0.apk)
+- [FileCodeBox](https://file.columbina.dev/#/?code=1WPTX)
+- [Minas.mihoyo.day](https://minas.mihoyo.day/s/jQM5M6msFSsBnYd)
+
+下载编译完成的APK安装包直接安装。
+
 #### 源码
 
 1. 克隆或下载此仓库至本地，并使用对应的IDE开发软件打开。
