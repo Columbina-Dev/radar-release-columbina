@@ -8,9 +8,9 @@
 
 | 关联项目名称           | 文件夹                                                                                |
 | ---------------------- | --------------------------------------------------------------------------------------- |
-| 隐私雷达安卓版         | [android](https://github.com/LYiHub/privacy-radar-public/tree/main/android)         |
-| 隐私雷达鸿蒙安全选择器版   | [ohos-picker](https://github.com/LYiHub/privacy-radar-public/tree/main/ohos-picker) |
-| 隐私雷达鸿蒙传统权限申请版 | [ohos-scope](https://github.com/LYiHub/privacy-radar-public/tree/main/ohos-scope)   |
+| 隐私雷达安卓版         | [android](https://github.com/Columbina-Dev/radar-release-columbina/tree/main/android)         |
+| 隐私雷达鸿蒙安全选择器版   | [ohos-picker](https://github.com/Columbina-Dev/radar-release-columbina/tree/main/ohos-picker) |
+| 隐私雷达鸿蒙传统权限申请版 | [ohos-scope](https://github.com/Columbina-Dev/radar-release-columbina/tree/main/ohos-scope)   |
 
 ---
 
