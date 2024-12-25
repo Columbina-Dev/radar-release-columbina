@@ -13,7 +13,11 @@
 
 #### 推荐
 
-使用手机访问[此链接](https://pan.baidu.com/s/1QNc_09T3-Bqp9RrDbwsWJg?pwd=pupw)，下载编译完成的APK安装包直接安装。
+使用手机访问
+- [Github Release](https://github.com/Columbina-Dev/radar-release-columbina/releases/download/APK-1.0/privacy_radar_v1.0.apk)
+- [FileCodeBox](https://file.columbina.dev/#/?code=1WPTX)
+- [Minas.mihoyo.day](https://minas.mihoyo.day/s/jQM5M6msFSsBnYd)
+下载编译完成的APK安装包直接安装。
 
 #### 源码
 
